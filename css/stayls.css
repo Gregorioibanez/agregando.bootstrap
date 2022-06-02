@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 5px;;
+    background-color: #FFB226;
+}
+
+body{
+    background-color: #FFB226;
+}
+
+h1{
+    font-family: pacifico;
+    text-align: center;
+}
+
+h2{
+font-family: roboto slab;
+text-align: center;
+}
+
+h3{
+    font-family: roboto slab;
+text-align: center;
+}
+
+h4{
+    font-family: roboto slab;
+text-align: center;
+}
+
+h5{
+    font-family: roboto slab;
+text-align: center;
+}
+
+.textoInicio{
+    text-align: center;
+}
+
+.redes{
+    text-align: start;
+}
+
+.cajaContacto{
+    background-color: beige;
+}
+
+
+.imgProducto1{
+    width: 390px;
+}
+
+.imgProducto2{
+    width: 390px;
+}
